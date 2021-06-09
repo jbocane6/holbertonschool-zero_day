@@ -9,3 +9,5 @@ Información básica holbie:
 
 1. Cohorte 15
 2. Campus Bogotá
+
+Archivo editado como parte evidencia 4. Collaboration: be up to date
