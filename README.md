@@ -9,7 +9,10 @@
   <p align="center">
     <a href=#><img src="https://raw.githubusercontent.com/jbocane6/logos/main/titulo1.png" alt="titulo" /></a></p>
 
-### 0. Create and setup your Git and GitHub account
+### Repository with scripts of evidences:
+
+- [0x00-vagrant](https://github.com/jbocane6/holbertonschool-zero_day/tree/master/0x00-vagrant)
+- [0x03-git](https://github.com/jbocane6/holbertonschool-zero_day/tree/master/0x03-git)
 
 Repositorio realizado como evidencia hecho por:
 
